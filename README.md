@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clicalmani" alt="clicalmani" /></a> </p>
 
-- 🔭 I’m currently working on [Tonka PHP Framework](https://github.com/clicalmani/tonka)
+- 🔭 I’m currently working on [Tonka PHP Framework](https://clicalmani.github.io/tonka)
 
-- 👯 I’m looking to collaborate on [Tonka PHP Framework](https://github.com/clicalmani/tonka)
+- 👯 I’m looking to collaborate on [Tonka PHP Framework](https://clicalmani.github.io/tonka)
 
 - 💬 Ask me about **Tonka, Tonka Comet, Vue, React**
 
-- 📫 How to reach me **clicalmani@gmail.com**
+- 📫 How to reach me <a href="https://fb.com/clicalmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="clicalmani" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
